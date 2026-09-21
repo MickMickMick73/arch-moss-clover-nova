@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Ivory Hopper",
+      "hasCanvas": false,
+      "bodyTextLen": 28,
+      "bodyTextHash": "846a5ed08ae72aeb2047181dc4e83ee2c642918e6bd34d698bbc68934cbb1efc",
+      "bodyTextPrefix": "CONCERT FOR ONE Ivory Hopper",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Ivory Hopper",
+      "hasCanvas": false,
+      "bodyTextLen": 28,
+      "bodyTextHash": "846a5ed08ae72aeb2047181dc4e83ee2c642918e6bd34d698bbc68934cbb1efc",
+      "bodyTextPrefix": "CONCERT FOR ONE Ivory Hopper",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
